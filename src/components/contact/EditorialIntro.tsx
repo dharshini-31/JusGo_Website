@@ -10,7 +10,7 @@ const ORANGE = "#F28C28";
 
 const SMALL_HEADING = "The people behind the experience";
 const NAME_LEAD = "Meet";
-const NAME = "Harish K";
+const NAME = "Hem Harish K";
 /** Placeholder portrait. Replace this file (or point to a new one) when the real photo is ready. */
 const PORTRAIT = "/assets/harish-placeholder.png";
 const SUPPORTING = "Building connections through sports.";
@@ -127,7 +127,7 @@ function Portrait() {
         >
           <span className="absolute inset-0 overflow-hidden rounded-full bg-[#EEF0EF] shadow-[0_30px_70px_-30px_rgba(7,20,38,0.7)]">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={PORTRAIT} alt="Harish K" width={700} height={700} className="h-full w-full scale-[1.27] object-cover" />
+            <img src={PORTRAIT} alt="Hem Harish K" width={700} height={700} className="h-full w-full scale-[1.27] object-cover" />
           </span>
           <svg aria-hidden="true" viewBox="0 0 100 100" className="pointer-events-none absolute -inset-2 h-[calc(100%+16px)] w-[calc(100%+16px)] -rotate-90">
             <motion.circle
