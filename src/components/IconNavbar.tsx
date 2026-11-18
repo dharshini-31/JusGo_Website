@@ -159,7 +159,9 @@ export function IconNavbar({ currentPage = "home" }: { currentPage?: Page }) {
         <div className="my-auto hidden shrink-0 lg:block">
           <Magnetic>
             <a
-              href="/contact"
+              href="https://jusgo.in"
+              target="_blank"
+              rel="noopener noreferrer"
               data-cursor="Meet"
               className="inline-flex rounded-full bg-jg-lime px-5 py-2.5 text-xs font-bold text-jg-950 transition-transform hover:-translate-y-0.5"
             >
